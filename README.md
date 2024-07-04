@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @Varsha-Indukuri
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Frond End Programming languages
+- 👀 I’m passionate towards Computer Programming
+- 🌱 I’m currently learning Full Stack Web Developmenet
+- ⏳ Currently working on Machine Learning Projects
+  
